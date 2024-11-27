@@ -1,6 +1,17 @@
 [![MasterHead](https://terralogic.com/wp-content/uploads/2021/06/jvm.png)](https://ajithkumarsankar.io)
 <h1 align="center">Hi 👋, I'm Ajithkumar</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+  <p>💻 <strong>Java Backend Developer</strong> | Enthusiastic about building scalable backend services with <strong>Spring Boot Microservices</strong>.</p>
+  <p>🚀 Passionate about:</p>
+  <ul>
+    <li>Designing and developing efficient, scalable systems</li>
+    <li>Exploring <strong>System Design</strong> principles and <strong>Data Structures & Algorithms</strong></li>
+    <li>Understanding highly scalable and high-availability architectures</li>
+  </ul>
+  <p>🎯 On a journey to learn the art of crafting resilient and performant distributed systems.</p>
+  <p>📦 Open to collaborating on challenging and innovative projects!</p>
+</div>
+
 <img align="right" alt="Coding" width="400" src="https://backiee.com/static/wallpapers/1000x563/396529.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajithsankar&label=Profile%20views&color=0e75b6&style=flat" alt="ajithsankar" /> </p>
