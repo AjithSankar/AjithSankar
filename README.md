@@ -1,4 +1,4 @@
-[![MasterHead](https://terralogic.com/wp-content/uploads/2021/06/jvm.png)](https://ajithkumarsankar.io)
+[![MasterHead](https://gamakaai.com/wp-content/uploads/2019/06/java-banner-1-1024x332.png)](https://ajithkumarsankar.io)
 <h1 align="center">Hi 👋, I'm Ajithkumar</h1>
 <div style="font-family: Arial, sans-serif; line-height: 1.6;">
   <p>💻 <strong>Java Backend Developer</strong> | Enthusiastic about building scalable backend services with <strong>Spring Boot Microservices</strong>.</p>
